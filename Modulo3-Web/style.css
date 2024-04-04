@@ -1,0 +1,20 @@
+body {
+    background-color: #C99CFA;
+    font-family: 'Courier New', Courier, monospace;
+}
+#header-personaje {
+    color: #EAD8FC;
+    
+}
+
+#desc {
+    font-size: small;
+    font-style: oblique;
+}
+
+#personaje-fot {
+   width: 100px;
+  height: 100px;
+  border:#a52b4d;
+  border-width: 10px;
+}
